@@ -2,6 +2,11 @@
     import ActoHorario from '../../components/ActoHorario.svelte'
     import HeaderDias from '../../components/HeaderDias.svelte';
 </script>
+
+<svelte:head>
+	<title>Eventos del martes</title>
+</svelte:head>
+
 <HeaderDias>
     <h1>MARTES</h1>
     <h2>EXPOSICION DE ARTE MODERNO</h2>

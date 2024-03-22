@@ -6,6 +6,10 @@
     import TheMain from '../components/TheMain.svelte';
 </script>
 
+<svelte:head>
+	<title>Eventos del lunes</title>
+</svelte:head>
+
 
 <div>
 	<TheNav />

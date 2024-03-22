@@ -6,7 +6,7 @@
     
 </script>
 
-<TheMain>
+
 
     <h1>LOS EVENTOS GRATUITOS QUE TENEMOS PARA HOY SON:</h1>
     <nav>
@@ -24,7 +24,7 @@
     </nav>
  
 
-</TheMain>
+
     
 
 
