@@ -2,11 +2,13 @@
 	import { page } from '$app/stores';
 </script>
 <nav>
+	<a class="home" href="/">
+		<img width="28" src="/icons/home.svg" alt="Home">
+	</a>
 	<ul>
 
 		
 		<li aria-current={$page.url.pathname === '/' ? 'page' : undefined}>
-			<a href="/">Home</a>
 		</li>
 		<li aria-current={$page.url.pathname === '/lunes' ? 'page' : undefined}>
 			<a href="/lunes">Lunes</a>
@@ -42,8 +44,10 @@
 
 	nav {
 		display: flex;
-		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
+		justify-content: space-between;
+		--background: rgb(255 255 255 / 15%);
+		background-color: var(--background);
+		border-radius: .5rem;
 	}
 
 
@@ -63,23 +67,28 @@
 		height: 100%;
 	}
 
-	
+	.home {
+		display: flex;
+		align-items: center;
+		padding-left: .5rem;
+	}
 
-	nav a {
+	nav a:not(.home) {
 		display: flex;
 		height: 100%;
 		align-items: center;
 		padding: 0 0.5rem;
-		color: var(--color-text);
+		color: pink;
 		font-weight: 700;
 		font-size: 0.8rem;
 		text-transform: uppercase;
 		letter-spacing: 0.1em;
 		text-decoration: none;
-		transition: color 0.2s linear;
+		/* transition: color 0.2s linear; */
+		transition: background-color 400ms ease-in-out;
 	}
-
-	a:hover {
-		color: pink;
+	
+	a:not(.home):hover {
+		background-color: hsl(350, 100%, 17%);
 	}
 </style>
