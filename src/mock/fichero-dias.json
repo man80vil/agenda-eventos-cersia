@@ -1,0 +1,376 @@
+{
+    "/lunes": {
+        "eventos": [
+            {
+                "id": "1",
+                "descripcion": "Se presenta en El Corte Inglés  EL DIA DEL LIBRO-2024",
+                "lugar":"Sala de actos de 'El Corte Inglés' ",
+                "hora": "12:00", 
+                "titulo": "Evento 1.1-Titulo:Presentacion del libro",
+                "imagen": "presentacionLibro1.jpg"
+            },          
+            {
+                "id": "2",
+                "descripcion": "Editorial Planeta presenta su libro CONFIANZA TOTAL",
+                "lugar":" Sala de actos de 'El Corte Inglés' ",
+                "hora": "13:00", 
+                "titulo": "Evento 1.2-Titulo: Editorial planeta presenta un libro",
+                "imagen": "presentacionLibro9.jpg"
+            },          
+            {
+                "id": "3 abbas",
+                "descripcion": "Charla: El libro de papel vs Libro Electronico",
+                "lugar":" Sala de actos de 'El Corte Inglés' ",
+                "hora": "16:00", 
+                "titulo": "Evento 1.3-Titulo: Asistencia a charla",
+                "imagen": "presentacionLibro4.jpg"
+            },          
+            {
+                "id": "4",
+                "descripcion": "El futuro del sector del libro",
+                "lugar":"Sala de actos de 'El Corte Inglés' ",
+                "hora": "17:00", 
+                "titulo": "Evento 1.4-Titulo: Ponentes",
+                "imagen": "presentacionLibro3.jpg"
+            },          
+            {
+                "id": "5",
+                "descripcion": "El ganador del premio Planeta 2024 firmará ejemplares",
+                "lugar":" Sala de actos de 'El Corte Inglés'",
+                "hora": "19:00", 
+                "titulo": "Evento 1.5-Titulo: El autor firma ejemplares",
+                "imagen": "presentacionLibro6.jpg"
+            },          
+            {
+                "id": "6",
+                "descripcion": " Acto de despedida y regalo a los asistentes a la jornada del libro ",
+                "lugar":" Sala de actos de 'El Corte Inglés'",
+                "hora": "21:00", 
+                "titulo": "Evento 1.6-Titulo: Regalo para los asistentes",
+                "imagen": "presentacionLibro5.jpg"
+            }
+            
+        ]
+
+    },
+    "/martes": {
+        "eventos": [
+            {
+                "id": "1",
+                "descripcion": "Decripcion del evento 2.1 del martes",
+                "lugar":"Museo do Pobo Galego",
+                "hora": "12:00", 
+                "titulo": "Evento 2.1-",
+                "imagen": "fotoArte1.jpg"
+            },          
+            {
+                "id": "2",
+                "descripcion": "Decripcion del evento 2.2 del martes",
+                "lugar":" Museo do Pobo Galego",
+                "hora": "13:00", 
+                "titulo": "Evento 2.2-",
+                "imagen": "fotoArte2.jpg"
+            },          
+            {
+                "id": "3 ",
+                "descripcion": "Decripcion del evento 2.3 del martes",
+                "lugar":"Museo do Pobo Galego ",
+                "hora": "16:00", 
+                "titulo": "Evento 2.3-",
+                "imagen": "fotoArte3.jpg"
+            },          
+            {
+                "id": "4",
+                "descripcion": "Decripcion del evento 2..4 del martes",
+                "lugar":"Museo do Pobo Galego ",
+                "hora": "17:00", 
+                "titulo": "Evento 2.4-",
+                "imagen": "fotoArte4.jpg"
+            },          
+            {
+                "id": "5",
+                "descripcion": "Decripcion del evento 2.5 del martes ",
+                "lugar":" Museo do Pobo Galego",
+                "hora": "19:00", 
+                "titulo": "Evento 2.5-",
+                "imagen": "fotoArte5.jpg"
+            },          
+            {
+                "id": "6",
+                "descripcion": "Decripcion del evento 2.6 del martes ",
+                "lugar":"Museo do Pobo Galego ",
+                "hora": "21:00", 
+                "titulo": "Evento 2.6-",
+                "imagen": "fotoArte6.jpg"
+            }
+            
+            
+        ]
+    },
+    "/miercoles": {
+        "eventos": [
+            {
+                "id": "1",
+                "descripcion": "apertura de las instalaciones",
+                "lugar":"Palacio de Congresos (San Lazaro) ",
+                "hora": "12:00", 
+                "titulo": "Evento 3.1-Apertura de las instalaciones",
+                "imagen": "feriaInform1.jpg"
+            },          
+            {
+                "id": "2",
+                "descripcion": " Acto de presentacion",
+                "lugar":"Palacio de Congresos (San Lazaro) ",
+                "hora": "13:00", 
+                "titulo": "Evento 3.2-Presentacion Feria",
+                "imagen": "feriaInform2.jpg"
+            },          
+            {
+                "id": "3 ",
+                "descripcion": "Visita de los colegios de Educacion primaria a las instalaciones",
+                "lugar":"Palacio de Congresos (San Lazaro) ",
+                "hora": "16:00", 
+                "titulo": "Evento 3.3-Demo para niños:",
+                "imagen": "feriaInform3.jpg"
+            },          
+            {
+                "id": "4",
+                "descripcion": " Una mano bionica muestra los avances en robótica",
+                "lugar":"Palacio de Congresos (San Lazaro) ",
+                "hora": "17:00", 
+                "titulo": "Evento 3.4-Robótica: ",
+                "imagen": "feriaInform4.jpg"
+            },          
+            {
+                "id": "5",
+                "descripcion": "Lo ultimo en realidad virtual e infografía ",
+                "lugar":"Palacio de Congresos (San Lazaro) ",
+                "hora": "19:00", 
+                "titulo": "Evento 3.5-Realidad virtual",
+                "imagen": "feriaInform5.jpg"
+            },          
+            {
+                "id": "6",
+                "descripcion": "Estudiantes de Informática visitan la feria ",
+                "lugar":"Palacio de Congresos (San Lazaro) ",
+                "hora": "21:00", 
+                "titulo": "Evento 3.6-Demostración de I.A a estudiantes de Informática",
+                "imagen": "feriaInform6.jpg"
+            }
+            
+            
+        ]
+    },
+    "/jueves": {
+        "eventos": [
+            {
+                "id": "1",
+                "descripcion": "Lo mas fashion",
+                "lugar":"Area Central (planta  baja)",
+                "hora": "12:00", 
+                "titulo": "Evento 4.1-fashion",
+                "imagen": "desfileFoto1.jpg"
+            },          
+            {
+                "id": "2",
+                "descripcion": "Desfile de vestidos de noche",
+                "lugar":"Area Central (planta  baja) ",
+                "hora": "13:00", 
+                "titulo": "Evento 4.2-Vestidos de noche-chicas",
+                "imagen": "desfileFoto3.jpg"
+            },          
+            {
+                "id": "3",
+                "descripcion": "Desfile de bolsos y otros complementos",
+                "lugar":"Area Central (planta  baja) ",
+                "hora": "16:00", 
+                "titulo": "Evento 4.3-bolsos ",
+                "imagen": "desfileFoto6.jpg"
+            },          
+            {
+                "id": "4",
+                "descripcion": "desfile chicos",
+                "lugar":"Area Central (planta  baja) ",
+                "hora": "17:00", 
+                "titulo": "Evento 4.4-Pantalones-chico",
+                "imagen": "desfileFoto4.jpg"
+            },          
+            {
+                "id": "5",
+                "descripcion": "Avance de temporada de verano para chicas ",
+                "lugar":"Area Central (planta  baja) ",
+                "hora": "19:00", 
+                "titulo": "Evento 4.5-verano-chicas",
+                "imagen": "desfileFoto5.jpg"
+            },          
+            {
+                "id": "6",
+                "descripcion": " Desfile moda primavera-verano chicos",
+                "lugar":" Area Central (planta  baja)",
+                "hora": "21:00", 
+                "titulo": "Evento 4.6-Informal-chicos",
+                "imagen": "desfileFoto2.jpg"
+            }
+            
+        ]
+    }, 
+    "/viernes": {
+        "eventos": [
+            {
+                "id": "1",
+                "descripcion": "maridaje de vino y mejillones de la ria",
+                "lugar":"Muelle do Xufre (Illa de Arousa) ",
+                "hora": "12:00", 
+                "titulo": "Evento 5.1-Degustacion de mejillones",
+                "imagen": "promoAlvariño1.jpg"
+            },          
+            {
+                "id": "2",
+                "descripcion": "Presentacion del nuevo Alvariño",
+                "lugar":"Local Social  da Denominación de Origen  Rias Baixas",
+                "hora": "13:00", 
+                "titulo": "Evento 5.2-El nuevo alvariño",
+                "imagen": "promoAlvariño2.jpg"
+            },          
+            {
+                "id": "3",
+                "descripcion": "maridaje de Alvariño y jamon Cinco Jotas",
+                "lugar":"Pazo Bayón (Villagarcía de Arosa)",
+                "hora": "16:00", 
+                "titulo": "Evento 5.3-Corte de Jamón",
+                "imagen": "promoAlvariño3.jpg"
+            },          
+            {
+                "id": "4",
+                "descripcion": "Cata de vinos asesorados por un experto sumiller",
+                "lugar":"Bodegas Paco & Lola (Ribadumia)",
+                "hora": "17:00", 
+                "titulo": "Evento 5.4-Cata de vino",
+                "imagen": "promoAlvariño4.jpg"
+            },          
+            {
+                "id": "5",
+                "descripcion": "Recorrido por los viñedos de la Bodega Condes de Albarei",
+                "lugar":"Viñedos Condes Albarei (Cambados)",
+                "hora": "19:00", 
+                "titulo": "Evento 5.5-visita a los viñedos",
+                "imagen": "promoAlvariño5.jpg"
+            },          
+            {
+                "id": "6",
+                "descripcion": "maridaje de vino y distintos tipos de queso en Pazo de Barrantes",
+                "lugar":"Pazo de Barrantes",
+                "hora": "21:00", 
+                "titulo": "Evento 5.6-vino y queso San Simon",
+                "imagen": "promoAlvariño6.jpg"
+            }
+            
+        ]
+    },
+    "/sabado": {
+        "eventos": [
+            {
+                "id": "1",
+                "descripcion": "Exhibicion de break dance",
+                "lugar":"Plaza Roja ",
+                "hora": "12:00", 
+                "titulo": "Evento 6.1-",
+                "imagen": "baile-urbano1.jpg"
+            },          
+            {
+                "id": "2",
+                "descripcion": "Exhibicion de waacking",
+                "lugar":"Plaza Roja ",
+                "hora": "13:00", 
+                "titulo": "Evento 6.2-",
+                "imagen": "baile-urbano2.jpg"
+            },          
+            {
+                "id": "3 ",
+                "descripcion": "Exhibición de liquid dancing",
+                "lugar":"Plaza Roja ",
+                "hora": "16:00", 
+                "titulo": "Evento 6.3-",
+                "imagen": "baile-urbano3.jpg"
+            },          
+            {
+                "id": "4",
+                "descripcion": "exhibición de popping",
+                "lugar":"Plaza Roja ",
+                "hora": "17:00", 
+                "titulo": "Evento 6.4-",
+                "imagen": "baile-urbano4.jpg"
+            },          
+            {
+                "id": "5",
+                "descripcion": "Exhibicion de hip-hop ",
+                "lugar":"Plaza Roja ",
+                "hora": "19:00", 
+                "titulo": "Evento 6.5-",
+                "imagen": "baile-urbano5.jpg"
+            },          
+            {
+                "id": "6",
+                "descripcion": "Exhibicion de dance house",
+                "lugar":"Plaza Roja",
+                "hora": "21:00", 
+                "titulo": "Evento 6.6-",
+                "imagen": "baile-urbano6.jpg"
+            }
+            
+        ]
+    },
+    "/domingo": {
+        "eventos": [
+            {
+                "id": "1",
+                "descripcion": "Película Dune",
+                "lugar":"Cinesa AS CANCELAS (sala nº 6) ",
+                "hora": "12:00", 
+                "titulo": "Evento 7.1-Dune",
+                "imagen": "cineGratisDune1.jpg"
+            },          
+            {
+                "id": "2",
+                "descripcion": "Pelicula Barbie",
+                "lugar": "Cinesa AS CANCELAS (sala nº 6) ",
+                "hora": "13:00", 
+                "titulo": "Evento 7.2-Barbie",
+                "imagen": "cineGratisBarbie2.jpg"
+            },          
+            {
+                "id": "3",
+                "descripcion": "Película Oppenheimer",
+                "lugar":" Cinesa AS CANCELAS (sala nº 5) ",
+                "hora": "16:00", 
+                "titulo": "Evento 7.3-Oppenheimer",
+                "imagen": "cineGratisOppenheimer3.jpg"
+            },          
+            {
+                "id": "4",
+                "descripcion": "Película Pobres Criaturas",
+                "lugar":"Cinesa AS CANCELAS (sala nº 6)  ",
+                "hora": "17:00", 
+                "titulo": "Evento 7.4-Pobres Criaturas",
+                "imagen": "cineGratisPobresCriats4.jpg "
+            },          
+            {
+                "id": "5",
+                "descripcion": "Película american Fiction ",
+                "lugar":"Cinesa AS CANCELAS (sala nº 3)  ",
+                "hora": "19:00", 
+                "titulo": "Evento 7.5-American Fiction",
+                "imagen": "cineGratisAmericanFiction5.jpg"
+            },          
+            {
+                "id": "6",
+                "descripcion": "Pelicula Godzilla Minus One",
+                "lugar":"Cinesa AS CANCELAS (sala nº 4)",
+                "hora": "21:00", 
+                "titulo": "Evento 7.6-Godzilla Minus One",
+                "imagen": "cineGratisGodzillaMinusOne6.jpg "
+            }
+            
+        ]
+    }
+}

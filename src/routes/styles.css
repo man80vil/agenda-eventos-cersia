@@ -1,0 +1,51 @@
+@import '@fontsource/fira-mono';
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+:root {
+	--font-body: system-ui, sans-serif;
+	--font-mono: 'Fira Mono', monospace;
+	--color-text: rgba(0, 0, 0, 0.7);
+}
+
+body {
+	min-height: 100vh;
+	margin: 0;
+	font-family: var(--font-body);
+	color: var(--color-text);
+
+
+
+	/* background-color: red; */
+}
+
+img {
+	max-width: 100%;
+}
+
+h1 {
+	font-family: var(--font-mono);
+}
+
+.header-dia h1 {
+	text-align: center;
+}
+.header-dia h2{
+	text-align: center;
+	font-size: 2rem;
+	color:blueviolet
+}
+
+.header-dia h3 {
+	color: red;
+	font-size: 18px;
+	text-align: center;
+ }
+.header-dia p{
+	text-align: center;
+	color:blue
+}
